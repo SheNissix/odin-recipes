@@ -1,0 +1,18 @@
+ body {
+     background-color: black;
+     color: white;
+     font-family: Arial, sans-serif;
+ }
+
+h1 {
+     color:lightseagreen
+ }
+ .description {
+     color:lightsalmon;
+ }
+ .ingredients-title {
+     color: orange;
+ }
+ .instructions-title {
+     color:orangered;
+ }
